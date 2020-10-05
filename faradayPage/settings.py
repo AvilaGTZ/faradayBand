@@ -25,7 +25,8 @@ SECRET_KEY = 'd6z1r25*h2e6r+yb4p5^ng#l$bqu1q_2!*8n+awsdxr(a^2nf('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['faradayBand.pythonanywhere.com']
+#ALLOWED_HOSTS = ['faradayBand.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
